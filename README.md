@@ -6,11 +6,11 @@ Proyectos Destacados
 
 🔸 Proyecto 1 – App Gestion  Parking
 
-Tecnologías: Java
+  Tecnologías: Java
 
 🔸 Proyecto 2 - JavaCar Sistema de alquiler de vehiculos
 
-Tecnologías: Java
+   Tecnologías: Java
 
 🔸 Proyecto 2 – Travel Dashboard
 
