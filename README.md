@@ -20,6 +20,9 @@ Tecnologías: HTML, CSS, JS
 
 Tecnologías:  HTML CSS JS
 
+🔸 Proyecto 4 - Agent IA * Java
+Tecnologias : Java , N8
+
 📚 Sobre mí
 🎓 Estudiante de DAW
 💻 Foco por el desarrollo backend y frontend
