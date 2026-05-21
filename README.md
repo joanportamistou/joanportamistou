@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hola 👋
+Soy estudiante de Desarrollo de Aplicaciones Web (DAW) y este repositorio sirve como centro de mis proyectos, ejercicios y experimentos mientras avanzo en mi aprendizaje como desarrollador.
+Proyectos Destacados
 
-<!--
-**joanportamistou/joanportamistou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔸 Proyecto 1 – App Parking
+
+Descripción breve del proyecto.
+Tecnologías: Java
+
+🔸 Proyecto 2 – Travel Dashboard
+
+Descripción breve del proyecto.
+Tecnologías: HTML, CSS, JS
+
+🔸 Proyecto 3 – CV
+
+Descripción breve del proyecto.
+Tecnologías:  HTML CSS JS
+
+📚 Sobre mí
+🎓 Estudiante de DAW
+💻 Foco por el desarrollo backend y frontend
+📈 Siempre aprendiendo nuevas tecnologías
+🤝 Abierto a colaborar en proyectos
+📫 Cómo contactarme
+✉️ Tu correo o forma de contacto (opcional)
+🧭 Objetivo del repositorio
+
+
+📫 Cómo contactarme
+✉️ Tjpormis@gmail.com 
+Linkedin : https://www.linkedin.com/in/joan-p-89529133a/
+
+Este repositorio reúne mis prácticas, proyectos personales y ejercicios que realizo mientras aprendo y mejoro mis habilidades como desarrollador web.
