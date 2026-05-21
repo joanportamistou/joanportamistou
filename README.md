@@ -4,19 +4,20 @@ Proyectos Destacados
 
 
 
-🔸 Proyecto 1 – App Parking
+🔸 Proyecto 1 – App Gestion  Parking
 
-Descripción breve del proyecto.
+Tecnologías: Java
+
+🔸 Proyecto 2 - JavaCar Sistema de alquiler de vehiculos
+
 Tecnologías: Java
 
 🔸 Proyecto 2 – Travel Dashboard
 
-Descripción breve del proyecto.
 Tecnologías: HTML, CSS, JS
 
 🔸 Proyecto 3 – CV
 
-Descripción breve del proyecto.
 Tecnologías:  HTML CSS JS
 
 📚 Sobre mí
@@ -25,12 +26,12 @@ Tecnologías:  HTML CSS JS
 📈 Siempre aprendiendo nuevas tecnologías
 🤝 Abierto a colaborar en proyectos
 📫 Cómo contactarme
-✉️ Tu correo o forma de contacto (opcional)
+✉️ Tu correo o forma de contacto 
 🧭 Objetivo del repositorio
 
 
 📫 Cómo contactarme
-✉️ Tjpormis@gmail.com 
+✉️ jpormis@gmail.com 
 Linkedin : https://www.linkedin.com/in/joan-p-89529133a/
 
 Este repositorio reúne mis prácticas, proyectos personales y ejercicios que realizo mientras aprendo y mejoro mis habilidades como desarrollador web.
