@@ -20,7 +20,7 @@ Tecnologías: HTML, CSS, JS
 
 Tecnologías:  HTML CSS JS
 
-🔸 Proyecto 4 - Agent IA * Java
+🔸 Proyecto 4 - Agente IA * Java
 Tecnologias : Java , N8
 
 📚 Sobre mí
