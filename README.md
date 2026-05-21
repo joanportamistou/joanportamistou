@@ -36,6 +36,8 @@ Tecnologias : Java , N8
 📫 Cómo contactarme
 ✉️ jpormis@gmail.com 
 Linkedin : https://www.linkedin.com/in/joan-p-89529133a/
-Curriculum Web : https://0373-daw-pr1-joanportamistou-nx387r00a-joans-projects-e1b13f41.vercel.app/
+
+Curriculum Web :
+https://0373-daw-pr1-joanportamistou-nx387r00a-joans-projects-e1b13f41.vercel.app/
 
 Este repositorio reúne mis prácticas, proyectos personales y ejercicios que realizo mientras aprendo y mejoro mis habilidades como desarrollador web.
